@@ -10,3 +10,4 @@ segment tree
 avl tree
 binary search tree
 set
+UnionFind
