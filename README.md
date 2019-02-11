@@ -2,12 +2,13 @@
 golang structure implements
 
 LinkedList
-stack
-que
+stack ----->depend on LinkedList
+que ----->depend on LinkedList
 heap
-priority que
+priority ----->que depends on heap
 segment tree
 avl tree
-binary search tree
-set
+binary search tree(bst) ----->depends on stack and que
+set ----->depends on bst
 UnionFind
+LInterface defines data interface
