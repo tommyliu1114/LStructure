@@ -1,0 +1,2 @@
+# LStructure
+golang structure implements
